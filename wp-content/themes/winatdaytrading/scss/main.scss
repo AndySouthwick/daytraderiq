@@ -1,0 +1,149 @@
+@import url('https://fonts.googleapis.com/css?family=Titillium+Web');
+
+
+
+html body{
+    margin-top: 0;
+  font-family: 'Titillium Web', sans-serif;
+}
+
+body{ overflow-x: hidden;
+    width: 100%;
+     position: relative;
+    }
+
+.bg-default{
+background: linear-gradient(rgba(255, 255, 255, 0.32), #ffffff);}
+nav a{
+    color:#5d9fd9;
+}
+
+.navbar{
+    padding:.9rem 1rem;
+    border-bottom-width: 1px;
+}
+.jumbotron{
+    background: url(/wp-content/uploads/2017/07/bg.png);
+    position: fixed;
+    left: 0;
+    top: -100px;
+    right: 0;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    padding-top: 50em;
+    background-repeat: no-repeat;
+    z-index: -1,
+}
+.jtrondown{
+    margin-top:10em;
+}
+.textblock{
+    padding:.3em;
+    color:#333;
+ background-color: rgba(238, 238, 238, 0.58);
+}
+.pagecontent{
+  margin-top: 5em;
+  position: reltive;
+  width: 100%;
+}
+.second-block{
+    background-color: rgba(238, 238, 238, 0.75);
+    padding: 10px;
+}
+.third-block{
+   
+     background-color:#171B1F;
+    padding: 5px;
+    color: rgba(247, 247, 249, 0.67);
+    padding:3em;
+    font-size:22px;
+    line-height: 40px;
+}
+
+.fourth-block{
+   
+    background-color:#c7c7c7;
+    padding: 5px;
+    color: #333;
+    padding:5em;
+    font-size: 18px;
+    line-height: 40px;
+    font-weight: bold;
+}
+
+.fifth-block{
+    background-color:  #181818;
+    padding: 10px;
+    color: white;
+}
+
+.wa-title{
+    border-style: solid;
+    border-width: 10px 0 10px 10px;
+     border-image: linear-gradient(to bottom, green, blue) 1 100%;
+    padding-left: 15px;
+    font-weight: 100;
+}
+
+.quote {
+    background-image: url(http://winatdaytrading.dev/wp-content/uploads/2017/07/quote-mark.png);
+    background-repeat: no-repeat;
+    padding: 15px;
+}
+img {
+    vertical-align: middle;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 60px;
+}
+
+ul{
+   list-style: none;
+}
+
+a{
+    color:#94A3A8;
+}
+
+.container{
+      margin: 4em;
+}
+.main{
+    margin-left: 8em;
+    margin-right:8em;
+}
+
+.modal-content{
+  background-color: rgba(238, 238, 238, 0.92);
+}
+.modal-header{
+    background-color: rgba(238, 238, 238, 0.92);
+}
+@media only screen and (max-width: 500px) {
+//     .pagecontent{
+//   margin-top: 45em;
+//   position: reltive;
+//   width: 100%;}
+  .main{
+    margin-left: 0;
+    margin-right:0;
+}
+}
+
+.compimg{
+    margin-top: 8em;
+}
+
+.margintop{
+    padding-top: 2em;
+}
+.red{
+    color: red;
+    margin:2em;
+    text-align: center
+}

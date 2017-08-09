@@ -197,7 +197,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
 
                         <div class="row ">
                             <div class="col-lg-6">
-                            <h2 class="wa-title margintop"> Who is WinAtDayTrading?</h2>
+                            <h2 class="wa-title margintop"> Who is DayTradeIq?</h2>
                                 <b>Since 2008</b> we've taught everyday people the skills necessary to become successful day traders.  
                                 Whether they want to make a part time or full time income that is up to them.  
                                 Over 90 % of our students become successful day traders winning at least 88% of their trades.  

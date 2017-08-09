@@ -33,7 +33,7 @@
         'container'         => false,
         'menu_class'				=> '',
         'fallback_cb'				=> '__return_false',
-      	'items_wrap'				=> my_nav_wrap(),
+     // 	'items_wrap'				=> my_nav_wrap(),
         'depth'							=> 2,
 				'walker'            => new b4st_walker_nav_menu(),
       ) );

@@ -213,7 +213,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
                                 <img src="wp-content/uploads/2017/07/Asset-2-8.png" alt="" width="600" class="compimg">
                                 <div class="row justify-content-center margintop">
                                 <div class="col-lg-4">
-                                     <link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_38575_fb8a8de9b0"><span>Schedule My Preview</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
+<link href="//app.webinarjam.net/assets/css/register_button.css" rel="stylesheet"><div style=""><div class="embedded-joinwebinar-button"><button type="button" class="btn btn-default css3button" title="regpopbox_38575_16331f919f"><span>Register now</span></button></div></div><script src="//cdnjs.cloudflare.com/ajax/libs/jquery/1.11.1/jquery.min.js" language="javascript" type="text/javascript"></script><script src="//app.webinarjam.net/assets/js/porthole.min.js" language="javascript" type="text/javascript" async></script><script src="//app.webinarjam.net/register.evergreen.extra.js" language="javascript" type="text/javascript" async></script>
 
                                         </div>
                                     </div>

@@ -240,7 +240,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
       <div class="fluid-container fifth-block" align="left">         
                          <div class="row">
                                  <div class="col">
-                                <h4>WinAtDayTrading</h4>
+                                <h4>DayTradeIq</h4>
                             
                                 
                             </div></div>         

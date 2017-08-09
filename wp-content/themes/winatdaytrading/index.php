@@ -13,7 +13,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
                                 
                 </div>
 
-                        <h1 class="display-3"><?php bloginfo('name'); ?></h1>
+                       
                 </div>
             </div>
             <div class="row">

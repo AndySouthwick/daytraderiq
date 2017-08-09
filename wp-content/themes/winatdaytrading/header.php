@@ -25,7 +25,7 @@
   <button class="navbar-toggler navbar-toggler-right" type="button" data-toggle="collapse" data-target="#navbarNavDropdown" aria-controls="navbarNavDropdown" aria-expanded="false" aria-label="Toggle navigation">
     <span class="navbar-toggler-icon"></span>
   </button>
-  <a class="navbar-brand" href="<?php echo esc_url( home_url('/') ); ?>"><img src="http://daytraderiq.andrewsouthwick.com/wp-content/uploads/2017/08/dayTradeIq.png" alt=""></a>
+  <a class="navbar-brand" href="<?php echo esc_url( home_url('/') ); ?>"><img src="http://daytraderiq.andrewsouthwick.com/wp-content/uploads/2017/08/dayTradeIq.png" alt=""width="200"></a>
   <div class="collapse navbar-collapse" id="navbarNavDropdown">
 		<?php
       wp_nav_menu( array(

@@ -291,7 +291,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
                     </div>
                      <div class="row">
                          <div class="col-lg-12" align="center">
-                                &copy 2017 WinAtDayTrading.com All Rights Reserved
+                                &copy 2017 daytradeiq.com All Rights Reserved
                          </div>
                         
                     </div>

@@ -285,7 +285,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
                         <div class="col-md-3 offset-md-9">
                             <a href="https://www.facebook.com/winatdaytrading/" target="blank"><i class="fa fa-facebook fa-4x" aria-hidden="true"></i></a>
                             <a href="https://twitter.com/winatdaytrading"><i class="fa fa-twitter fa-4x" aria-hidden="true"></i></a>
-                            <a href="https://www.youtube.com/channel/UCvBSK3dY0_kG4HMZ4dKycGQ/featured target="blank"><i class="fa fa-youtube fa-4x" aria-hidden="true"></i></a>
+                            <a href="https://www.youtube.com/channel/UCvBSK3dY0_kG4HMZ4dKycGQ/featured" target="blank"><i class="fa fa-youtube fa-4x" aria-hidden="true"></i></a>
                         
                     </div>
                      <div class="row">

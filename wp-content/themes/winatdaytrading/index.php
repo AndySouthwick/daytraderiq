@@ -21,7 +21,7 @@ TEXT 'Daily' to <a href="SMS:385-448-4055"> 385-448-4055</a></span>
                 <!--<video width="100%" controls>
                     <source src="wp-content/uploads/2017/07/3-Min-Video-Webinar-1.mp4" type="video/mp4">
                  </video>-->
-<iframe width="100%" height="440" src="https://www.youtube.com/embed/5k1GStCxq7c?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>                </div>
+<iframe width="100%" height="440" src="https://www.youtube.com/embed/DmrR6w6Bw9s?rel=0&autoplay=1" frameborder="0" allowfullscreen></iframe>                </div>
 
                 <div class="col-lg-3 offset-lg-1 ">
                 <div class="textblock">

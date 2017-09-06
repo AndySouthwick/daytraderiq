@@ -1,5 +1,9 @@
-var BrowserSyncPlugin = require('browser-sync-webpack-plugin');
 var webpack = require('webpack')
+const ExtractTextPlugin = require("extract-text-webpack-plugin");
+const extractSass = new ExtractTextPlugin({
+    filename: "[name].[contenthash].css",
+    disable: process.env.NODE_ENV === "development"
+});
 module.exports = function(env){  
     return{
             entry: "./js/app.js",
@@ -8,13 +12,22 @@ module.exports = function(env){
             filename: "bundle.js"
         },
         module: {
-            loaders: [
-                {test: /\.html$/, loader: 'raw-loader', exclude: /node_modules/},
-                {test: /\.css$/, loader: "style-loader!css-loader", exclude: /node_modules/},
-                {test: /\.scss$/, loader: "style-loader!css-loader!sass-loader", exclude: /node_modules/},
-                {test: /\.woff($|\?)|\.woff2($|\?)|\.ttf($|\?)|\.eot($|\?)|\.svg($|\?)/, loader: 'url-loader'}
-            ]
+            rules: [{
+                test: /\.scss$/,
+                use: extractSass.extract({
+                    use: [{
+                        loader: "css-loader"
+                    }, {
+                        loader: "sass-loader"
+                    }],
+                    // use style-loader in development
+                    fallback: "style-loader"
+                })
+            }]
         },
+        plugins: [
+            extractSass
+        ]
     }
 
 
